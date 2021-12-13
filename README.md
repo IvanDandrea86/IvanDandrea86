@@ -16,6 +16,7 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
 
 ## Technologies
 ---
+<div align="center">
   <div style="display: inline_block"><br>
  
 
@@ -48,7 +49,7 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
  </div>
 <br>
-
+</div>
 ## Skills
 ---
 
