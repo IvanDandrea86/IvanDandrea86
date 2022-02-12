@@ -63,19 +63,5 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
 - Problem solving
 - Dad with super powers
 - Patience
-
-
-## Things that drive me crazy...
----
-- Pizza
-- Pizza
-- Pizza
-  
-Yes i love pizza...
----
-![pizzalovers](https://media.giphy.com/media/jn2iXu2HRpMuovBrrV/giphy.gif)
-
----
-
-![my_fav_gif](https://media.giphy.com/media/MZocLC5dJprPTcrm65/giphy.gif) 
+- Quick learner
 
