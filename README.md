@@ -24,7 +24,6 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
 <div align="center">
   <div style="display: inline_block"><br>
 
-
    <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -41,6 +40,7 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
   <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img  align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
     </div>
      <div style="display: inline_block"><br>
