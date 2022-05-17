@@ -1,12 +1,15 @@
 ([EN](aboutme.md#en) / [FR](aboutme.md#fr))
 
-# ***_Ivan D'Andrea_*** <a name="en"></a>
+# **_*Ivan D'Andrea*_** <a name="en"></a>
+
 ### Junior Web Developer Full-Stack
+
 ---
-Born in Naples, Italy in the wild 80s. I studied computer science and made programming my greatest passion.  I lived many years in Barcelona and Berlin before ending up in Brussels. 
+
+Born in Naples, Italy in the wild 80s. I studied computer science and made programming my greatest passion. I lived many years in Barcelona and Berlin before ending up in Brussels.
 
 > _"Travel is never about money, but about courage."_  
- Paolo Coelho
+>  Paolo Coelho
 
 <div align="center">
   <a href="https://github.com/IvanDandrea86">
@@ -15,16 +18,20 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
 </div>
 
 ## Technologies
+
 ---
+
 <div align="center">
   <div style="display: inline_block"><br>
- 
+
 
    <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
       <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    
+  <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    <img align="center"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
    </div>
@@ -55,13 +62,11 @@ Born in Naples, Italy in the wild 80s. I studied computer science and made progr
 <br>
 </div>
 
-
-
 ## Skills
+
 ---
 
 - Problem solving
 - Dad with super powers
 - Patience
 - Quick learner
-
